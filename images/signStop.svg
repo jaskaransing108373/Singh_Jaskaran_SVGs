@@ -11,6 +11,8 @@
         stroke-miterlimit: 10;
         font-family: BaskOldFace, Baskerville Old Face;
       }
+      #Layer_1:hover .cls-1
+       { fill: red; }
     </style>
   </defs>
   <title>signStop</title>
