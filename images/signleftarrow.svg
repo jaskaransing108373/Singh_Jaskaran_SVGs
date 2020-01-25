@@ -2,13 +2,15 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #ff0;
+        fill: gray;
       }
 
       .cls-2 {
         stroke: #000;
         stroke-miterlimit: 10;
       }
+      #Layer_1:hover .cls-1
+       { fill: yellow; }
     </style>
   </defs>
   <title>signleftarrow</title>

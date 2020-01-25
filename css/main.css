@@ -14,16 +14,3 @@
 /* change the SVG graphic artwork with css! */
 /*#lGrain:hover, #rGrain:hover {
   fill: red;}*/
-
-#yaas:hover #cls-1 {
-  fill: red;
-}
-#yaas:hover #cls-2 {
-  fill: red;
-}
-#yaas:hover #lStar {
-  fill: yellow;
-}
-#beerGraphic:hover #rStar {
-  fill: yellow;
-}

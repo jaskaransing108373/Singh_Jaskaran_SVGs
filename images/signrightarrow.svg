@@ -2,7 +2,7 @@
   <defs>
     <style>
       .cls-1 {
-        fill: #ff0;
+        fill: gray;
       }
 
       .cls-2 {
@@ -11,7 +11,7 @@
       }
     </style>
   </defs>
-  <title>sign right arrow</title>
+  <title>signRightarrow</title>
   <g id="outer_rectangle" data-name="outer rectangle">
     <rect x="34.47" y="34.47" width="163" height="163" transform="translate(-48.03 115.97) rotate(-45)"/>
     <path d="M116,1.41,230.52,116,116,230.52,1.41,116,116,1.41M116,0,0,116l116,116,116-116L116,0Z"/>
