@@ -9,6 +9,8 @@
         stroke: #000;
         stroke-miterlimit: 10;
       }
+      #Layer_1:hover .cls-1
+       { fill: yellow; }
     </style>
   </defs>
   <title>signUturn</title>

@@ -1,7 +1,16 @@
+.li {
+  text-align: right;
+ 
+}
+.line1 {
+  padding: 10px;
+  text-align: center;
+  font-size: 50px
+}
 .img-wrapper {
   display: inline-block;
-  width: 40%;
-  padding: 10px 15px;
+  width: 30%;
+  padding: 70px 19px ;
 }
 .img-wrapper img {
   width: 100%
