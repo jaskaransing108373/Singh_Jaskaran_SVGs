@@ -1,16 +1,22 @@
+body {
+  font-size: 25px; padding: 0.3em;
+
+}
+
 .li {
   text-align: right;
- 
+  cursor: pointer
+
 }
 .line1 {
   padding: 10px;
   text-align: center;
   font-size: 50px
 }
-.img-wrapper {
+.img-wrapper { cursor: pointer;
   display: inline-block;
   width: 30%;
-  padding: 70px 19px ;
+  padding: 70px 42px ;
 }
 .img-wrapper img {
   width: 100%
@@ -19,7 +25,11 @@
 .black-bg {
   background-color: white;
 }
+main span {
+  cursor: pointer;
+}
+.selected { color: green; cursor: pointer; }
 
-/* change the SVG graphic artwork with css! */
-/*#lGrain:hover, #rGrain:hover {
-  fill: red;}*/
+.selected:not(.wrapper)::before {
+  content: ' \2713';
+}
